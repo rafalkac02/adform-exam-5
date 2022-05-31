@@ -35,7 +35,7 @@ The project is built with:
 - sbt
 
 ## Usage
-- Clone the repository to the chosen directory with `git clone https://github.com/rafalkac02/adform-exam-1` command.
+- Clone the repository to the chosen directory with `git clone https://github.com/rafalkac02/adform-exam-5` command.
 - Run the application with `sbt run` command in the same directory
 - Test the application with `sbt test` command
 
