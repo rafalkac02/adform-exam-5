@@ -4,10 +4,7 @@ Table of contents
 1. [About The Project](#about-the-project)
     - [Adform's exam](#adforms-exam)
     - [Project description](#project-description)
-2. [Getting Started](#getting-started)
-3. [Usage](#usage)
-4. [Troubleshooting](#troubleshooting)
-
+2. [Suprise](#suprise)
 
 ## About the Project
 
@@ -27,22 +24,20 @@ This project is a part of a final exam after 3-months of Scala Academy at [Adfor
 </details>
 
 ### Project description
-The project does XYZ.
+It is a bug fixing challenge
 
-## Getting Started
-The project is built with:
-- Scala
-- sbt
+- task description:
+```text
+Clone the repository: https://github.com/hubert-skowronek/scala-academy-task
+Run the Reader main class which reads the parquet file containing some data. It should print a stdout sample of the resulting dataset which shows grouped data about persons with an aggregated number of their emails, but nothing is printed while the application is run. Identify the bug, describe what is wrong and try to find the solution to fix it.
 
-## Usage
-- Clone the repository to the chosen directory with `git clone https://github.com/rafalkac02/adform-exam-5` command.
-- Run the application with `sbt run` command in the same directory
-- Test the application with `sbt test` command
-
-
-## Troubleshooting
-- Make sure that your project does not contain outdated project files using:
+Expected results
+- The result of this task should be fixed code with the brief description of the bug and explained solution.
+- Describe your thought process step after step.
+- The description can be committed either as a separate plain text file or inserted as a comment in the committed source code.
 ```
-sbt clean
-```
-- Make sure that your environment variables are set properly, including `JAVA_HOME`
+
+## Suprise
+What a suprise haha! The project seems to work fine on my machine.
+
+I have run this project both in Intellij Idea and Windows Command Line application. The program correctly printed the table.
